@@ -1,3 +1,7 @@
+## 0.1.4 - 13 Apr 2020
+
+- Fixes boolean Data
+
 ## 0.1.3 - 13 Apr 2020
 
 - Fixes typo in Data parsing for power
