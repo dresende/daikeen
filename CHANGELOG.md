@@ -1,3 +1,11 @@
+## 0.1.3 - 13 Apr 2020
+
+- Fixes typo in Data parsing for power
+
+## 0.1.2 - 13 Apr 2020
+
+- Enables the set() operation
+
 ## 0.1.1 - 13 Apr 2020
 
 - Bug fixes
