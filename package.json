@@ -1,11 +1,11 @@
 {
-  "name": "daikeen",
-  "version": "0.0.1",
-  "description": "Daikin AC local HTTP API controller",
-  "main": "index.js",
-  "author": "Diogo Resende <dresende@thinkdigital.pt>",
-  "license": "MIT",
-  "dependencies": {
-    "debug": "^4.1.1"
-  }
+	"name"         : "daikeen",
+	"version"      : "0.1.0",
+	"description"  : "Daikin AC local HTTP API controller",
+	"main"         : "index.js",
+	"author"       : "Diogo Resende <dresende@thinkdigital.pt>",
+	"license"      : "MIT",
+	"dependencies" : {
+		"debug" : "^4.1.1"
+	}
 }
