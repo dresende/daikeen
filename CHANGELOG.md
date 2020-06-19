@@ -1,3 +1,9 @@
+## 0.1.7 - 19 Jun 2020
+
+- Converts control information without the need to send raw
+- Adds fan direction convertion
+- Fixes ints/floats with 0 being converted to null
+
 ## 0.1.6 - 19 Jun 2020
 
 - Exports Modes and FanRates
