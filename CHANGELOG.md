@@ -1,3 +1,7 @@
+## 0.1.5 - 19 Jun 2020
+
+- Adds mode and fan rate conversion
+
 ## 0.1.4 - 13 Apr 2020
 
 - Fixes boolean Data
