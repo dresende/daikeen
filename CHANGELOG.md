@@ -1,3 +1,7 @@
+## 0.1.6 - 19 Jun 2020
+
+- Exports Modes and FanRates
+
 ## 0.1.5 - 19 Jun 2020
 
 - Adds mode and fan rate conversion
