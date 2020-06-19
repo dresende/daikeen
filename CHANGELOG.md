@@ -1,3 +1,9 @@
+## 0.1.8 - 19 Jun 2020
+
+- Send only relevant parameters to set control info
+- Fixes some data conversions
+- Fixes set() reconverting data
+
 ## 0.1.7 - 19 Jun 2020
 
 - Converts control information without the need to send raw
