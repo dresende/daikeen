@@ -7,5 +7,6 @@ exports.createConnection = (address) => {
 	});
 };
 
-exports.Modes    = Data.modes;
-exports.FanRates = Data.fan_rates;
+exports.Modes         = Data.modes;
+exports.FanRates      = Data.fan_rates;
+exports.FanDirections = Data.fan_directions;
