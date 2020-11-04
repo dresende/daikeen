@@ -1,3 +1,7 @@
+## 0.1.9 - 04 Nov 2020
+
+- fixes oudoorTemperature typo
+
 ## 0.1.8 - 19 Jun 2020
 
 - Send only relevant parameters to set control info
