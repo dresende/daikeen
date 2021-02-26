@@ -1,3 +1,8 @@
+## 0.1.10 - 26 Feb 2020
+
+- adds some failsafe checks for setControlInformation()
+- debug@4.3.1
+
 ## 0.1.9 - 04 Nov 2020
 
 - fixes oudoorTemperature typo
