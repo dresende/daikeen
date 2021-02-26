@@ -6,6 +6,6 @@
 	"author"       : "Diogo Resende <dresende@thinkdigital.pt>",
 	"license"      : "MIT",
 	"dependencies" : {
-		"debug" : "^4.1.1"
+		"debug" : "^4.3.1"
 	}
 }
